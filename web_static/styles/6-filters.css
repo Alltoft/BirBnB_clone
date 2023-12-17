@@ -43,6 +43,7 @@ button:hover{
     float: left;
 }
 .popover {
+    margin-left: -1px;
     display: none;
     position: absolute;
     top: 100%;
